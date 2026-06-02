@@ -316,5 +316,17 @@ Security is implemented in three layers:
 - IEEE AIS Ethical Guidelines — [standards.ieee.org](https://standards.ieee.org)
 
 ---
+Copyright (c) 2026 Muhammad Mobin — NexusTransport AI
+All Rights Reserved.
+
+This work, including all documentation, code, diagrams, and associated 
+materials, is the exclusive intellectual property of Muhammad Mobin.
+
+No part of this work may be viewed, copied, reproduced, modified, 
+distributed, transmitted, or used in any form or by any means — 
+electronic, mechanical, or otherwise — without the prior written 
+permission of the copyright holder.
+
+Unauthorized use will be subject to legal action.
 
 *NexusTransport AI — Autonomous Transit Intelligence*
